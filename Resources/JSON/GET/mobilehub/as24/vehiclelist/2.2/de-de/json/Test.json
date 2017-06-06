@@ -1,0 +1,20 @@
+{
+    "response": {
+        "code": 0,
+        "msg": "OK",
+        "notice": "Notice: This is a mockapi response",
+        "vehiclelist": {
+            "adtargeting": {
+                "acc": "N,U",
+                "fr": "11",
+                "hp": "1,2,3,4,5,6,7,8,9",
+                "miles": "1,2,3,4,5,6,7,8,9,10",
+                "mode": "test",
+                "price": "1,2,3,4,5,6,7,8",
+                "seg": "low_price,high_price,low_hp,high_hp,new_fr,high_miles,new_miles",
+                "vehicle_type_id": "C"
+            },
+            "vehicles_found": 1500000
+        }
+    }
+}
